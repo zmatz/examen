@@ -1,0 +1,81 @@
+.bg-black {
+	background-color: black;
+}
+.log1 {
+	font-family: OpenSans;
+	font-weight: lighter;
+	font-size: 35px;
+	font-stretch: 
+}
+.log2 {
+	font-family: OpenSans;
+	font-weight: bolder;
+	font-size: 35px;
+	font-stretch: 
+}
+.pd-1 {
+	padding: 1.5%;
+}
+li {
+	display: inline-block;
+	padding: 3%;
+}
+header a:hover {
+	color: #cc0066;
+}
+.city-pic{
+	height: 10%;
+}
+.titulo {
+	font-size: 30px;
+}
+.proy-pic {
+	background-image: url(../img/main-pic.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 260px;	
+}
+.boton-read {
+	border-radius: 30px;
+	background-color: grey;
+	width: 150px;
+	height: 40px;
+	padding: 3%;
+}
+.text-red {
+
+}
+.boton-load {
+	border-radius: 30px;
+	background-color: grey;
+	width: 150px;
+	height: 40px;
+	margin: 3% 46%;
+	padding: 1%;
+}
+.lp{
+	font-size: 25px;
+}
+.works {
+	font-style: 15px;
+}
+.text-gray2{
+	color: 	#707070;
+}
+.follow1 {
+	border-radius: 5px;
+	background-color: #cc0066;
+	padding: 1.5% 5%;
+	font-size: 12px;
+	width: 65px;
+	margin-left: 40%;
+}
+.follow2 {
+	border-radius: 5px;
+	background-color: #cc0066;
+	padding: 1.5% 5%;
+	font-size: 12px;
+}
+.icon-tw {
+	font-size: 700%;
+}
